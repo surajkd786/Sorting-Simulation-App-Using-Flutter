@@ -31,7 +31,7 @@
 4. Saves the sorting history for in the form of table for current session for comparison of algorithms.
 5. See the step-by-step formation of sorted array.
 
-## Screenshots
+
 
 
 
