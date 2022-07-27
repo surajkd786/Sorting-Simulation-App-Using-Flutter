@@ -2,7 +2,7 @@
 
 *An App to visualize various sorting algorithms...Developed using Flutter, followed MVVM pattern, and used stacked services.*  
 
-![alt text](readme_assets/thumbnail.png) 
+
 
 ## Sorting Algorithms Included
 
