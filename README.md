@@ -2,7 +2,7 @@
 
 *An App to visualize various sorting algorithms...Developed using Flutter, followed MVVM pattern, and used stacked services.*  
 
-
+![](https://github.com/surajkd786/Sorting-Simulation-App-Using-Flutter/blob/main/readme_assets/GIF.gif)
 
 ## Sorting Algorithms Included
 
