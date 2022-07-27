@@ -1,17 +1,8 @@
-# Sortlizer  
 
-[![Made By](https://img.shields.io/badge/Made%20by-Roshan-blue.svg)](https://github.com/roshan9419) [![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/roshan9419) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/roshan9419) [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/roshan9419) [![Stars](https://img.shields.io/github/stars/roshan9419/Sortlizer.svg?style=flat&color=orange)](https://github.com/roshan9419) [![Top Language](https://img.shields.io/github/languages/top/roshan9419/Sortlizer.svg?style=flat&color=informational)](https://github.com/roshan9419) [![Issues](https://img.shields.io/github/issues/roshan9419/Sortlizer.svg)](https://github.com/roshan9419)
-<br>
 
 *An App to visualize various sorting algorithms...Developed using Flutter, followed MVVM pattern, and used stacked services.*  
 
-![alt text](readme_assets/thumbnail.png)
-
-## Play Store Link
-https://play.google.com/store/apps/details?id=com.programmingtech.sortlizer
-
-## Watch the demo here 👇👇👇
-https://www.youtube.com/watch?v=g108TmmvwY0  
+![alt text](readme_assets/thumbnail.png) 
 
 ## Sorting Algorithms Included
 
@@ -42,18 +33,7 @@ https://www.youtube.com/watch?v=g108TmmvwY0
 
 ## Screenshots
 
-<p float="left">
-    <img src="readme_assets/home.png" alt="Home" width="400"/>
-    <img src="readme_assets/sorting.png" alt="Sorting" width="400"/>
-    <img src="readme_assets/drawer.png" alt="Drawer" width="400"/>
-    <img src="readme_assets/algo_info.png" alt="Algorithm Info" width="400"/>
-    <img src="readme_assets/algo_code.png" alt="Algorithm Code" width="400"/>
-    <img src="readme_assets/cutom_input.png" alt="Custom Input Array" width="400"/>
-    <img src="readme_assets/custom_size.png" alt="Custom Size" width="400"/>
-    <img src="readme_assets/sorting_history.png" alt="Sorting History" width="400"/>
-    <img src="readme_assets/sort_tracks.png" alt="Sorting Tracks" width="400"/>
-    <img src="readme_assets/sorting_track.png" alt="Sorting Track" width="400"/>
-</p>
+
 
 ## Dependencies / Packages  
 
@@ -97,11 +77,3 @@ Use following command for code generation, when needed. Its usually needed if yo
 
     flutter pub run build_runner build --delete-conflicting-outputs
 
-
-## Author
-
-Roshan Kumar (**roshan9419**)  
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
